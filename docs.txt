@@ -1,0 +1,4 @@
+HEAD
+Contenido A
+Contenido B
+B
